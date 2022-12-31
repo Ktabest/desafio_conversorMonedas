@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: cadetblue;
+    width: 30%;
+    text-align: center;
+    
+}
+h1 {
+    color: #fff;
+}
+
+h3 {
+    color: #fff;
+}
+p {
+    color: #fff;
+}
+
+#conversion {
+    background-color: deepskyblue;
+    color: #fff;
+}
+
+#resultadoConversion {
+    color: #fff;
+}
