@@ -1,13 +1,15 @@
 body {
     background-color: black;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container {
     background-color: cadetblue;
     width: 30%;
     text-align: center;
-    
+    margin: auto;
 }
+
 h1 {
     color: #fff;
 }
@@ -15,15 +17,32 @@ h1 {
 h3 {
     color: #fff;
 }
+
 p {
     color: #fff;
+}
+
+#pesosClp {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#convertirA {
+    padding: 5px;
+    border-radius: 5px;
 }
 
 #conversion {
     background-color: deepskyblue;
     color: #fff;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 5px;  
 }
 
 #resultadoConversion {
     color: #fff;
+    display: block;
+    margin-top: 10px;
+
 }
